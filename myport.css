@@ -668,7 +668,8 @@ nav{
     gap: 1em;
 }
 .fill .inp{
-    padding: 25px;
+    text-indent: 10px;
+    height: 65px;
     width: 280px;
     background-color: #030e6c;
     border: none;
@@ -695,7 +696,7 @@ textarea{
     border: none;
     color: white;
     outline: none;
-    padding-left: 20px;
+    text-indent: 15px;
     padding-top: 1em;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1em;
