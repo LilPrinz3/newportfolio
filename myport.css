@@ -731,35 +731,12 @@ textarea{
         flex-direction: column;
         align-items: center;
     }
-    .fill .inp{
-        width: 370px;
-    }
     textarea{
-        width: 375px;
-        height: 200px;
-    }
-}
-@media(max-width: 595px){
-    .lin{
-        gap: 5em;
-    }
-}
-@media(max-width: 417px){
-    .fill .inp{
-        width: 320px;
-    }
-    textarea{
-        width: 325px;
-        height: 170px;
-    }
-}
-@media(max-width: 372px){
-    .fill .inp{
-        width: 270px;
-    }
-    textarea{
-        width: 275px;
+        width: 290px;
         height: 150px;
+    }
+     .lin{
+        gap: 5em;
     }
 }
 .foot{
